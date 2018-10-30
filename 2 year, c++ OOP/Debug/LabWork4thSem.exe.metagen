@@ -1,0 +1,46 @@
+  LabWork4thSem.Form1.resources - Embedded, ContainedInManifestFile, 
+  LabWork4thSem.History.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly LabWork4thSem, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BaseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetModel(): PrivateScope, Public, HideBySig
+    Init(Model1): PrivateScope, Public, HideBySig
+    MyRefresh(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Model1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(BaseForm, BaseForm): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    ShowHistory(): PrivateScope, Public, HideBySig
+    GetData(): PrivateScope, Public, HideBySig
+    UnDoCommand(): PrivateScope, Public, HideBySig
+    NextStateCommand(): PrivateScope, Public, HideBySig
+    AllRefresh(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class LabWork4thSem.History: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BaseForm
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MyRefresh(): PrivateScope, Public, Virtual, HideBySig
+    InitializeComponent(): PrivateScope, Public, HideBySig
+Class LabWork4thSem.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :BaseForm
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MyRefresh(): PrivateScope, Public, Virtual, HideBySig

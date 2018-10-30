@@ -1,0 +1,32 @@
+﻿Построение начато 30.11.2014 21:09:14.
+     1>Проект "C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\LibField\LibField.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /TP /analyze- /errorReport:prompt /clr:nostdlib Alg.cpp BitField.cpp Builders.cpp Field.cpp Fill.cpp
+         Alg.cpp
+         BitField.cpp
+         Builders.cpp
+         Field.cpp
+         Fill.cpp
+         Создание кода...
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\builders.cpp(66): warning C4715: BFill::build: значение возвращается не при всех путях выполнения
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\bitfield.cpp(20): warning C4715: OneBitField::GetMask: значение возвращается не при всех путях выполнения
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\bitfield.cpp(94): warning C4715: TwoBitField::GetMask: значение возвращается не при всех путях выполнения
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\bitfield.cpp(116): warning C4715: TwoBitField::GetBit: значение возвращается не при всех путях выполнения
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\bitfield.cpp(170): warning C4715: ThreeBitField::GetMask: значение возвращается не при всех путях выполнения
+     1>c:\users\наташа\documents\visual studio 2012\projects\лабораторная работа 3. игра жизнь\libfield\bitfield.cpp(196): warning C4715: ThreeBitField::GetBit: значение возвращается не при всех путях выполнения
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\LibField.lib" /NOLOGO Debug\Alg.obj
+         Debug\BitField.obj
+         Debug\Builders.obj
+         Debug\Field.obj
+         Debug\Fill.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+         LibField.vcxproj -> C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\LibField.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\LibField.bsc" /n Debug\Alg.sbr Debug\BitField.sbr Debug\Builders.sbr Debug\Field.sbr Debug\Fill.sbr "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.sbr"
+     1>Построение проекта "C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\LibField\LibField.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:06.85

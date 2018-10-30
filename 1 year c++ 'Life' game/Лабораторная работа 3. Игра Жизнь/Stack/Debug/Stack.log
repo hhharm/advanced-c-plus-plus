@@ -1,0 +1,18 @@
+﻿Построение начато 29.11.2014 17:04:10.
+     1>Проект "C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Stack\Stack.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\LibField /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /TP /analyze- /errorReport:prompt /clr:nostdlib CB.cpp
+         CB.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\Stack.lib" /NOLOGO Debug\CB.obj
+         Debug\Stack.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: ▌ЄюЄ Їрщы юс·хъЄр эх юяЁхфхы хЄ ъръшх-ышсю Ёрэхх эхюяЁхфхыхээ√х юЄъЁ√Є√х ёшьтюы√, яю¤Єюьє юэ эх сєфхЄ шёяюы№чютрЄ№ё  эшъръшьш юяхЁрЎш ьш ъюьяюэютъш, юсЁр∙р■∙шьшё  ъ ¤Єющ сшсышюЄхъх
+         Stack.vcxproj -> C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\Stack.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Debug\Stack.bsc" /n Debug\CB.sbr Debug\Stack.sbr "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.sbr"
+     1>Построение проекта "C:\Users\Наташа\Documents\Visual Studio 2012\Projects\Лабораторная работа 3. Игра Жизнь\Stack\Stack.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.58

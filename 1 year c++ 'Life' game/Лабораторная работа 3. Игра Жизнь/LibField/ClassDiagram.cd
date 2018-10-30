@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TAlg">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Alg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IBitField" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAgICAAgAIAAAAAAAAAAAAEkAiBAAACAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneBitField" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAgAAAAAAgICAAgAIAAAAAAAAAAAAEkAiBAAACAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoBitField" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAIAAAAAAgICAAgAIAAAAAAAAAAAAEkAiBAAACAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreeBitField" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAAAAAAAgICAAgAKAAAAAAAAAAAAEkAiBAAACAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TField" Collapsed="true">
+    <Position X="3.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAoBAAAAAAgAIAAAAAAAAAiAgBAAgBAAAAIA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BField" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BTemp" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CurrentField" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAgAAAAAEAAAAAAAAAAAAggAIAgAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="TTemp" Collapsed="true">
+    <Position X="3.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Field.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
